@@ -1,0 +1,17 @@
+C:\Users\winicius\Documents\atividades7\obj\Debug\netcoreapp3.1\atividades7.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades7\obj\Debug\netcoreapp3.1\atividades7.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades7\obj\Debug\netcoreapp3.1\atividades7.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades7\obj\Debug\netcoreapp3.1\atividades7.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\atividades7\SistemaPOO\bin\Debug\netcoreapp3.1\atividades7.exe
+C:\Users\winicius\Documents\atividades7\SistemaPOO\bin\Debug\netcoreapp3.1\atividades7.deps.json
+C:\Users\winicius\Documents\atividades7\SistemaPOO\bin\Debug\netcoreapp3.1\atividades7.runtimeconfig.json
+C:\Users\winicius\Documents\atividades7\SistemaPOO\bin\Debug\netcoreapp3.1\atividades7.runtimeconfig.dev.json
+C:\Users\winicius\Documents\atividades7\SistemaPOO\bin\Debug\netcoreapp3.1\atividades7.dll
+C:\Users\winicius\Documents\atividades7\SistemaPOO\bin\Debug\netcoreapp3.1\atividades7.pdb
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.dll
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.pdb
+C:\Users\winicius\Documents\atividades7\SistemaPOO\obj\Debug\netcoreapp3.1\atividades7.genruntimeconfig.cache
